@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "image-map-resizer@1.0.10",
+      "destination": "wwwroot/lib/image-map-resizer/"
+    }
+  ]
+}
